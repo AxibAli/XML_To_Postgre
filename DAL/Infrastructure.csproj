@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BOL\BOL.csproj" />
+    <ProjectReference Include="..\BOL\Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,5 @@
-﻿using BOL;
-using DAL;
+﻿using DAL;
+using Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace BLL
+namespace Application
 {
     public class Weight_HeaderBs
     {
@@ -39,7 +39,7 @@ namespace BLL
 
             int a = 0;
 
-            
+
             ObjDb.Insert(weight_Header);
 
             return true;

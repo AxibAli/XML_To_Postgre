@@ -1,4 +1,4 @@
-﻿namespace XmlLoader
+﻿namespace WebUI
 {
     internal class Program
     {
