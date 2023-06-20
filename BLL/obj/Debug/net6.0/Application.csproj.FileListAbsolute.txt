@@ -1,0 +1,17 @@
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Application.deps.json
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Application.dll
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Application.pdb
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Domain.dll
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Infrastructure.dll
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Domain.pdb
+E:\XML_To_Postgre\BLL\bin\Debug\net6.0\Infrastructure.pdb
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.dll
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\refint\Application.dll
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\Application.pdb
+E:\XML_To_Postgre\BLL\obj\Debug\net6.0\ref\Application.dll
