@@ -1,0 +1,1 @@
+Don't forget to change the Connection string in AppDbContext.cs
